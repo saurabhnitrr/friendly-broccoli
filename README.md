@@ -1,1 +1,1 @@
-Personal Blogging site,designed using Djan
+Personal Blogging site,designed using Django
